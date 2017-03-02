@@ -1,6 +1,6 @@
 # NativeScriptWithNgCli
 
-The [NativeScript](http://docs.nativescript.org/)  but you can use [Angular CLI](https://github.com/angular/angular-cli) to generate component.
+The [NativeScript](http://docs.nativescript.org/) project but you can use [Angular CLI](https://github.com/angular/angular-cli) to generate component.
 
 ## Usage
 
