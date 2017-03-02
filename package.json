@@ -9,8 +9,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "start.ios": "cd src & tns run ios",
-    "start.android": "cd src & tns run android",
+    "start.ios": "cd src && tns run ios",
+    "start.android": "cd src && tns run android",
     "postinstall": "rimraf -rf node_modules/@types/node"
   },
   "private": true,
