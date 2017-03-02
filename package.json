@@ -8,7 +8,9 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "start.ios": "cd src & tns run ios",
+    "start.android": "cd src & tns run android"
   },
   "private": true,
   "dependencies": {
