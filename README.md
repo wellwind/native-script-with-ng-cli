@@ -1,4 +1,4 @@
-# NativeScriptWithNgCli
+# NativeScript With Angular CLI - Seed project
 
 The [NativeScript](http://docs.nativescript.org/) project but you can use [Angular CLI](https://github.com/angular/angular-cli) to generate component.
 
