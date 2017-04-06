@@ -9,6 +9,7 @@ git clone https://github.com/wellwind/native-script-with-ng-cli.git
 cd native-script-with-ng-cli
 npm install
 npm run start.android
+npm run start.ios
 ```
 
 You will see a very simple NativeScript app.
